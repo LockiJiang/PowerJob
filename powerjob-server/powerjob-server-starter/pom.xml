@@ -43,6 +43,17 @@
             <groupId>tech.powerjob</groupId>
             <artifactId>powerjob-server-migrate</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.oscar</groupId>
+            <artifactId>oscarJDBC</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.oscar</groupId>
+            <artifactId>oscarHibernate</artifactId>
+            <version>5.4</version>
+        </dependency>
     </dependencies>
 
     <!-- SpringBoot maven plugin -->
